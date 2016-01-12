@@ -327,6 +327,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
+    font-size: 15px;
     color: #fff;
 }
 
@@ -340,7 +341,7 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 footer .footer-below {
@@ -478,4 +479,8 @@ footer .footer-below {
 
 #portfolio-thumbnail {
     border:3px solid #081829;
+}
+
+#footer-credits {
+    font-size: 15px;
 }
