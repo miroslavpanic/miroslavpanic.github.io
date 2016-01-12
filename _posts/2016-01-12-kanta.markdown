@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+date: 2016-01-12
+img-thumbnail: kanta0.png
+img:
+    - {i: kanta0.png, d: ""}
+    - {i: kanta1.png, d: ""}
+    - {i: kanta2.png, d: ""}
+    - {i: kanta3.png, d: ""}
+alt: image-alt
+description:
+    
+---

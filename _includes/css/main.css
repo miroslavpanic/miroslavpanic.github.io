@@ -455,3 +455,27 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+#contact-email {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+#contact-phone {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.centerBlock {
+    display: table;
+    margin: 0 auto;
+}
+
+
+.karakteristike-li {
+    font-size: 20px;
+}
+
+#portfolio-thumbnail {
+    border:3px solid #081829;
+}

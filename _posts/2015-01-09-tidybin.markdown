@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2015-01-07
+img-thumbnail: tidybin1.png
+img:
+    - {i: tidybin1.png, d: ""}
+alt: image-alt
+description: TidyBin - mini kontejner
+
+---

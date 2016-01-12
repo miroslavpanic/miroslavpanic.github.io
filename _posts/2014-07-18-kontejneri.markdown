@@ -4,9 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img-thumbnail: kontejneri.png
 img:
-    - tb1.png
-    - tb2.png
+    - {i: kontejneri.png, d: ""}
 alt: image-alt
-description: Lorem Ipsum
+description: 
 
 ---
